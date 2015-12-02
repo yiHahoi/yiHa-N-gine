@@ -1,0 +1,47 @@
+animTotal
+animCurrent
+camRelative
+scale
+rotate
+transparency
+xMirror
+yMirror
+xPos
+yPos
+zPos
+xVel
+yVel
+xAccel
+yAccel
+ghost
+for(animTotal)
+	subFrameTotal
+	subFrameCurrent
+	subFramePixelWidth
+	subFramePixelHeight
+	loop
+	fps
+	lastClock
+	imgFile
+	alphaColor[0]
+	alphaColor[1]
+	alphaColor[2]
+        for(subFrameTotal)
+		subFrame.x
+		subFrame.y
+		subFrame.w
+		subFrame.h
+        for(subFrameTotal)
+		polyTotal
+		posX
+		posY
+		radius
+		for(polyTotal)
+			pointTotal
+			posX
+			posY
+			radius
+			for(pointTotal)
+				x
+				y
+			
